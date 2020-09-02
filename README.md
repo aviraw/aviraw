@@ -1,4 +1,4 @@
-![bg][github]]
+![bg][github]
 
 ### Hello World ! This is Aviral's GitHub :)
 
