@@ -2,10 +2,11 @@
 
 ### Hello World ! This is Aviral's GitHub :)
 
+👔 [linkedin][linkedin]**|**
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+
 
 - 🔭 I’m currently working on Webapps, Data Analytics, App Dev, UX and VFX
 - 🌱 I’m currently learning Java, Tableau, Android Studio, Adobe After Effects
