@@ -19,4 +19,4 @@
 [youtube]: https://www.youtube.com/channel/UCI4D4bm6clAdmDNQNiWrcvw?view_as=subscriber
 [instagram]: https://www.instagram.com/aviral_muriel_bing/
 [linkedin]: https://www.linkedin.com/in/aviral-srivastava-3336b166/
-[mail]: aviral23.1999@gmail.com
+[mail]: https://www.gmail.com/aviral23.1999@gmail.com
