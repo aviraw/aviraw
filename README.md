@@ -1,8 +1,7 @@
-[![bg][github]]
+![bg][github]]
 
 ### Hello World ! This is Aviral's GitHub :)
 
-🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
