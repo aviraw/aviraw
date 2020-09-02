@@ -2,7 +2,7 @@
 
 ### Hello World ! This is Aviral's GitHub :)
 
-👔 [linkedin][linkedin]**|**
+**|** 👔 [linkedin][linkedin]**|**
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
