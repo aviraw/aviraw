@@ -5,7 +5,8 @@
  👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 📷 [poetry-blog][poetry-blog]
+📷 [instagram][instagram] **|** 
+💙 [poetry-blog][poetry-blog]
 
 
 - 🔭 I’m currently working on Webapps, Data Analytics, App Dev, UX and VFX
