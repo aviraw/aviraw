@@ -5,7 +5,7 @@
  👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
+📷 [instagram][instagram] **|** 📷 [poetry-blog][poetry-blog]
 
 
 - 🔭 I’m currently working on Webapps, Data Analytics, App Dev, UX and VFX
@@ -18,5 +18,6 @@
 [twitter]: https://twitter.com/Aviral237
 [youtube]: https://www.youtube.com/channel/UCI4D4bm6clAdmDNQNiWrcvw?view_as=subscriber
 [instagram]: https://www.instagram.com/aviral_muriel_bing/
+[poetry-blog]: https://www.instagram.com/__littleblueheart__/
 [linkedin]: https://www.linkedin.com/in/aviral-srivastava-3336b166/
 [mail]: mailto:aviral23.1999@gmail.com
