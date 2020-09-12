@@ -24,5 +24,6 @@
 [mail]: mailto:aviral23.1999@gmail.com
 
 <p align='center'>
+<i>" Good things take time. "</i><br/>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch">
- <p/>
+<p/>
