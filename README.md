@@ -9,11 +9,11 @@
 💙 [poetry-blog][poetry-blog]
 
 
-- 🔭 I’m currently working on Webapps, Data Analytics, App Dev, UX and VFX
-- 🌱 I’m currently learning Django, Python, Java, PowerBI, Tableau, Android Studio, Adobe Photoshop, Adobe After Effects.
-- 👯 I’m looking for Internships on InternetOfThings, Python Dev and App Dev.
-- 💬 [mail][mail] **|**  Mail me at aviral23.1999@gmail.com.
-- ⚡ Fun fact: I love F.R.I.E.N.D.S. and I love to code in Java since 5th standard.
+* 🔭 I’m currently working on Webapps, Data Analytics, App Dev, UX and VFX
+* 🌱 I’m currently learning Django, Python, Java, PowerBI, Tableau, Android Studio, Adobe Photoshop, Adobe After Effects.
+* 👯 I’m looking for Internships on InternetOfThings, Python Dev and App Dev.
+* 💬 [mail][mail] **|**  Mail me at aviral23.1999@gmail.com.
+* ⚡ Fun fact: I love F.R.I.E.N.D.S. and I love to code in Java since 5th standard.
 
 [github]: https://github.com/aviraw/aviraw/blob/master/github.png
 [twitter]: https://twitter.com/Aviral237
@@ -24,6 +24,8 @@
 [mail]: mailto:aviral23.1999@gmail.com
 
 <p align='center'>
-<i>" Good things take time. "</i><br/>
+<i>"Good things take time."</i><br/>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch">
 <p/>
+
+#
