@@ -22,3 +22,5 @@
 [poetry-blog]: https://www.instagram.com/__littleblueheart__/
 [linkedin]: https://www.linkedin.com/in/aviral-srivastava-3336b166/
 [mail]: mailto:aviral23.1999@gmail.com
+|---|
+|![visitors](https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch)|
