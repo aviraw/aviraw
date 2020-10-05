@@ -1,7 +1,7 @@
 ![bg][github]
 
-### Hello World ! This is Aviral's GitHub :)
-<img src = "https://github-readme-stats.vercel.app/api?username=aviraw&&show_icons=true&theme=default">
+### Welcome to Aviral's GitHub :)
+<img align='center' src = "https://github-readme-stats.vercel.app/api?username=aviraw&&show_icons=true&theme=default">
 
 👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|** 
@@ -24,9 +24,10 @@
 [linkedin]: https://www.linkedin.com/in/aviral-srivastava-3336b166/
 [mail]: mailto:aviral23.1999@gmail.com
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&&langs_count=8&layout=compact">
+
 
 <p align='center'>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&&langs_count=4&layout=compact">
 <i>"Good things, take time."</i><br/>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch">
 <p/>
