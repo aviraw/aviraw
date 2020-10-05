@@ -24,7 +24,7 @@
 [linkedin]: https://www.linkedin.com/in/aviral-srivastava-3336b166/
 [mail]: mailto:aviral23.1999@gmail.com
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&layout=compact&langs_count=8">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&&langs_count=8&layout=compact">
 
 <p align='center'>
 <i>"Good things, take time."</i><br/>
