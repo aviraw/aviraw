@@ -25,7 +25,7 @@
 [mail]: mailto:aviral23.1999@gmail.com
 [![https://github-readme-stats.vercel.app/api?username=aviraw&&show_icons=true&theme=default]]
 <p align='center'>
-<img class="center" src = "https://github-readme-stats.vercel.app/api?username=aviraw&&show_icons=true&theme=default"><br/>
+<img class="center" src = "https://github-readme-stats.vercel.app/api?username=aviraw&show_icons=true&theme=default"><br/>
 <i>"Good things, take time."</i><br/>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"><br/>
 <p/>
