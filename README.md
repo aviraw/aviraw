@@ -27,6 +27,9 @@
 [![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 <p align='center'>
+  
+  [![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github.com/anuraghazra/github-readme-stats)<br/>
+
 <i>"Good things, take time."</i><br/>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"><br/>
 <p/>
