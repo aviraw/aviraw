@@ -3,10 +3,7 @@
 ### Hello World ! This is Aviral's GitHub :)
 <img src = "https://github-readme-stats.vercel.app/api?username=aviraw&&show_icons=true&theme=default">
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&layout=compact">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
- 👔 [linkedin][linkedin] **|**
+👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
@@ -26,6 +23,8 @@
 [poetry-blog]: https://www.instagram.com/__littleblueheart__/
 [linkedin]: https://www.linkedin.com/in/aviral-srivastava-3336b166/
 [mail]: mailto:aviral23.1999@gmail.com
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&layout=compact">
 
 <p align='center'>
 <i>"Good things, take time."</i><br/>
