@@ -1,6 +1,6 @@
 ### Welcome to Aviral's GitHub :)
 
-!<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&&langs_count=4&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&&langs_count=4&layout=compact">
 
 👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|** 
@@ -14,7 +14,7 @@
 * 💬 [mail][mail] **|**  Mail me at aviral23.1999@gmail.com.
 * ⚡ Fun fact: I love F.R.I.E.N.D.S. and I love to code in Java.
 
-![bg][github]
+<!--![bg][github]-->
 
 [github]: https://github.com/aviraw/aviraw/blob/master/github.png
 [twitter]: https://twitter.com/Aviral237
