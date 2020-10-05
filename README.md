@@ -2,6 +2,7 @@
 
 ### Welcome to Aviral's GitHub :)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&&langs_count=4&layout=compact">
+
 👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
