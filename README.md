@@ -24,7 +24,7 @@
 [linkedin]: https://www.linkedin.com/in/aviral-srivastava-3336b166/
 [mail]: mailto:aviral23.1999@gmail.com
 
-[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github.com/anuraghazra/github-readme-stats)
+[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github-readme-stats.vercel.app/api?username=aviraw)
 
 <p align='left'>
 <i>"Good things, take time."</i><br/>
