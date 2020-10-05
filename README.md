@@ -23,7 +23,7 @@
 [poetry-blog]: https://www.instagram.com/__littleblueheart__/
 [linkedin]: https://www.linkedin.com/in/aviral-srivastava-3336b166/
 [mail]: mailto:aviral23.1999@gmail.com
-
+[![https://github-readme-stats.vercel.app/api?username=aviraw&&show_icons=true&theme=default]]
 <p align='center'>
 <img class="center" src = "https://github-readme-stats.vercel.app/api?username=aviraw&&show_icons=true&theme=default"><br/>
 <i>"Good things, take time."</i><br/>
