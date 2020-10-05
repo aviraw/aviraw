@@ -1,8 +1,7 @@
 ![bg][github]
 
 ### Hello World ! This is Aviral's GitHub :)
-<img src = "https://github-readme-stats.vercel.app/api?username=aviraw&&show_icons=true&theme=default">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=aviraw&&show_icons=true&theme=default">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|** 
