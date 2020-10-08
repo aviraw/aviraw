@@ -1,9 +1,7 @@
 ### :wave: Welcome to Aviral's GitHub ! :smiley: 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=4&layout=compact">
-<br/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=4&layout=compact"><br/>
 <img src = "https://github-readme-stats.vercel.app/api?username=aviraw">
-<br/>
 
 👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|** 
