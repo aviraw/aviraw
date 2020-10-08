@@ -1,4 +1,4 @@
-### Welcome to Aviral's GitHub :)
+### Welcome to Aviral's GitHub :) :wave:
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=4&layout=compact">
 
