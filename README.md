@@ -28,7 +28,7 @@
 <!--[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github-readme-stats.vercel.app/api?username=aviraw)-->
 
 <p align='left'>
-<i>"Good things, take time."</i><br/>
+  <i><strong>"Good things, take time."</strong></i><br/>
 <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"><br/>
 <p/>
 
