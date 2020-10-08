@@ -26,7 +26,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=aviraw">
 
-[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github-readme-stats.vercel.app/api?username=aviraw)
+<!--[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github-readme-stats.vercel.app/api?username=aviraw)-->
 
 <p align='left'>
 <i>"Good things, take time."</i><br/>
