@@ -1,4 +1,4 @@
-### :wave: Welcome to Aviral's GitHub :smiley: 
+### :wave: Welcome to Aviral's GitHub ! :smiley: 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=4&layout=compact">
 
@@ -23,6 +23,8 @@
 [poetry-blog]: https://www.instagram.com/__littleblueheart__/
 [linkedin]: https://www.linkedin.com/in/aviral-srivastava-3336b166/
 [mail]: mailto:aviral23.1999@gmail.com
+
+<img src = "https://github-readme-stats.vercel.app/api?username=aviraw">
 
 [![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github-readme-stats.vercel.app/api?username=aviraw)
 
