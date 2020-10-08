@@ -1,5 +1,5 @@
 ### :wave: Welcome to Aviral's GitHub ! :smiley: 
-<img src = "https://tenor.com/view/love-wink-blush-smile-cute-gif-7876875" width=40 height=40 />
+<img src = "https://media.giphy.com/media/3o72FkJkNiRpAHN2Y8/giphy.gif" width=40 height=40 />
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=4&layout=compact"><br/>
 <img src = "https://github-readme-stats.vercel.app/api?username=aviraw">
