@@ -1,6 +1,4 @@
-# <img src = "https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width=50 height=45 /> Welcome to Aviral's GitHub ! :smiley:
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="aviral-srivastava-3336b166"><a class="LI-simple-link" href='https://in.linkedin.com/in/aviral-srivastava-3336b166?trk=profile-badge'>Aviral Srivastava</a></div>
+# <img src = "https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width=50 height=50 /> Welcome to Aviral's GitHub ! :smiley:
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=4&layout=compact&theme=dark">
 <br/><img src = "https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark">
