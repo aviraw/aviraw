@@ -1,7 +1,7 @@
 # <img src = "https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width=50 height=50 /> Welcome to Aviral's GitHub ! :smiley:
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=4&layout=compact&theme=dark">
-<br/><img src = "https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=false&theme=dark">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=5&layout=compact&theme=dark">
+<br/><img src = "https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark">
 
 👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|** 
@@ -27,9 +27,9 @@
 
 <!--[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github-readme-stats.vercel.app/api?username=aviraw)-->
 
-<p align='left'>
+<p align='center'>
   <i><strong>"Good things, take time."</strong></i><br/>
-<img align='left' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"><br/>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"><br/>
 <p/>
 
 #
