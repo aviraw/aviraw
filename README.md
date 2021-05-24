@@ -5,6 +5,7 @@
 
 👔 [linkedin][linkedin] **|**
 🐦 [twitter][twitter] **|** 
+❤️ [portfolio][portfolio] **|**
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 💙 [poetry-blog][poetry-blog]
@@ -24,6 +25,7 @@
 [poetry-blog]: https://www.instagram.com/__littleblueheart__/
 [linkedin]: https://www.linkedin.com/in/aviral-srivastava-3336b166/
 [mail]: mailto:aviral23.1999@gmail.com
+[portfolio]: https://aviral.cf/
 
 <!--[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github-readme-stats.vercel.app/api?username=aviraw)-->
 
