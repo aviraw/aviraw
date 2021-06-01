@@ -10,6 +10,12 @@
 * ⚡ Fun fact: I love F.R.I.E.N.D.S. and I love to code in Java.
 
 <!--![bg][github]-->
+[<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin]  
+[<img src="https://img.shields.io/badge/-Twitter-orange?style=for-the-badge&logo=appveyor"/>][twitter] 
+[<img src="https://img.shields.io/badge/My-Portfolio-red?style=for-the-badge&logo=appveyor"/>][portfolio]  
+[<img src="https://img.shields.io/badge/Youtube-Channel-yellow?style=for-the-badge&logo=appveyor"/>][youtube]  
+[<img src="https://img.shields.io/badge/Instagram-Profile-green?style=for-the-badge&logo=appveyor"/>][instagram]  
+[<img src="https://img.shields.io/badge/Poetry-Blog-brightgreen?style=for-the-badge&logo=appveyor"/>][poetry-blog]  
 
 [github]: https://github.com/aviraw/aviraw/blob/master/github.png
 [twitter]: https://twitter.com/Aviral237
@@ -28,13 +34,9 @@
 💙 [<img src="https://img.shields.io/badge/Poetry-Blog-brightgreen?style=for-the-badge&logo=appveyor"/>][poetry-blog] **|**  -->
 
 <!--[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github-readme-stats.vercel.app/api?username=aviraw)-->
-[<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin] **|**
-[<img src="https://img.shields.io/badge/-Twitter-orange?style=for-the-badge&logo=appveyor"/>][twitter] **|** 
-[<img src="https://img.shields.io/badge/My-Portfolio-red?style=for-the-badge&logo=appveyor"/>][portfolio] **|**
-[<img src="https://img.shields.io/badge/Youtube-Channel-yellow?style=for-the-badge&logo=appveyor"/>][youtube] **|** 
-[<img src="https://img.shields.io/badge/Instagram-Profile-green?style=for-the-badge&logo=appveyor"/>][instagram] **|** 
-[<img src="https://img.shields.io/badge/Poetry-Blog-brightgreen?style=for-the-badge&logo=appveyor"/>][poetry-blog] **|** 
+
 <img align='left' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"><br/>
+
 <p align='left'>
   <i><strong><img src="https://img.shields.io/badge/Good%20Things-Take%20Time-9cf?style=for-the-badge&logo=appveyor"/> </strong></i>
 <p/>
