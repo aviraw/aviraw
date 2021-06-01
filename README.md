@@ -1,14 +1,14 @@
 # <img src = "https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width=50 height=50 /> Welcome to Aviral's GitHub ! :smiley:
 <!-- 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=5&layout=compact&theme=dark"> -->
-<br/><img src = "https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark">
-
 [<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin]
 [<img src="https://img.shields.io/badge/Twitter-Page-orange?style=for-the-badge&logo=appveyor"/>][twitter]
 [<img src="https://img.shields.io/badge/My-Portfolio-red?style=for-the-badge&logo=appveyor"/>][portfolio]
 [<img src="https://img.shields.io/badge/Youtube-Channel-yellow?style=for-the-badge&logo=appveyor"/>][youtube]
 [<img src="https://img.shields.io/badge/Instagram-Profile-green?style=for-the-badge&logo=appveyor"/>][instagram]
-[<img src="https://img.shields.io/badge/Poetry-Blog-brightgreen?style=for-the-badge&logo=appveyor"/>][poetry-blog]  
+[<img src="https://img.shields.io/badge/Poetry-Blog-brightgreen?style=for-the-badge&logo=appveyor"/>][poetry-blog] 
+
+<br/><img src = "https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark">
 
 * 🔭 I’m currently working on Webapps, Data Analytics, IoT, App Dev, UX and VFX
 * 🌱 I’m currently learning ReactJS, NodeJS, Java, PowerBI, Tableau, Android Studio, Adobe Photoshop, Adobe After Effects.
