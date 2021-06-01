@@ -36,9 +36,10 @@
 
 <!--[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github-readme-stats.vercel.app/api?username=aviraw)-->
 
-<img align='left' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"/><br/>
+
 
 <p align='left'>
+  <img align='left' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"/> <br/>
   <i><strong><img src="https://img.shields.io/badge/Good%20Things-Take%20Time-9cf?style=for-the-badge&logo=appveyor"/> </strong></i>
 <p/>
 
