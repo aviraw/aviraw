@@ -39,7 +39,7 @@
 
 
 <p align='left'>
-  <img align='left' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"/> <br/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"/>
   <i><strong><img src="https://img.shields.io/badge/Good%20Things-Take%20Time-9cf?style=for-the-badge&logo=appveyor"/> </strong></i>
 <p/>
 
