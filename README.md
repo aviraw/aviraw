@@ -4,7 +4,7 @@
 <br/><img src = "https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark">
 
 [<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin]
-[<img src="https://img.shields.io/badge/-Twitter-orange?style=for-the-badge&logo=appveyor"/>][twitter]<br/>
+[<img src="https://img.shields.io/badge/Twitter-Page-orange?style=for-the-badge&logo=appveyor"/>][twitter]
 [<img src="https://img.shields.io/badge/My-Portfolio-red?style=for-the-badge&logo=appveyor"/>][portfolio]
 [<img src="https://img.shields.io/badge/Youtube-Channel-yellow?style=for-the-badge&logo=appveyor"/>][youtube]
 [<img src="https://img.shields.io/badge/Instagram-Profile-green?style=for-the-badge&logo=appveyor"/>][instagram]
