@@ -1,4 +1,4 @@
-# <img src = "https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width=50 height=50 /> Welcome to Aviral's GitHub ! <div class="tenor-gif-embed" data-postid="21418180" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/sretan-gif-21418180">Sretan GIF</a> from <a href="https://tenor.com/search/sretan-gifs">Sretan GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+# <img src = "https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width=50 height=50 /> Welcome to Aviral's GitHub ! <img src="https://media.giphy.com/media/3ohhwCZmdLxbmwrQiI/giphy.gif" height=50 width="50"/>
 <!-- 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=5&layout=compact&theme=dark"> -->
 [<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin]
