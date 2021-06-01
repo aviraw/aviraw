@@ -3,6 +3,13 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=5&layout=compact&theme=dark"> -->
 <br/><img src = "https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark">
 
+[<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin]
+[<img src="https://img.shields.io/badge/-Twitter-orange?style=for-the-badge&logo=appveyor"/>][twitter]<br/>
+[<img src="https://img.shields.io/badge/My-Portfolio-red?style=for-the-badge&logo=appveyor"/>][portfolio]
+[<img src="https://img.shields.io/badge/Youtube-Channel-yellow?style=for-the-badge&logo=appveyor"/>][youtube]
+[<img src="https://img.shields.io/badge/Instagram-Profile-green?style=for-the-badge&logo=appveyor"/>][instagram]
+[<img src="https://img.shields.io/badge/Poetry-Blog-brightgreen?style=for-the-badge&logo=appveyor"/>][poetry-blog]  
+
 * 🔭 I’m currently working on Webapps, Data Analytics, IoT, App Dev, UX and VFX
 * 🌱 I’m currently learning ReactJS, NodeJS, Java, PowerBI, Tableau, Android Studio, Adobe Photoshop, Adobe After Effects.
 * 👯 I’m looking for Internships on InternetOfThings, Python Dev and App Dev.
@@ -10,12 +17,6 @@
 * ⚡ Fun fact: I love F.R.I.E.N.D.S. and I love to code in Java.
 
 <!--![bg][github]-->
-[<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin]  
-[<img src="https://img.shields.io/badge/-Twitter-orange?style=for-the-badge&logo=appveyor"/>][twitter] 
-[<img src="https://img.shields.io/badge/My-Portfolio-red?style=for-the-badge&logo=appveyor"/>][portfolio]  
-[<img src="https://img.shields.io/badge/Youtube-Channel-yellow?style=for-the-badge&logo=appveyor"/>][youtube]  
-[<img src="https://img.shields.io/badge/Instagram-Profile-green?style=for-the-badge&logo=appveyor"/>][instagram]  
-[<img src="https://img.shields.io/badge/Poetry-Blog-brightgreen?style=for-the-badge&logo=appveyor"/>][poetry-blog]  
 
 [github]: https://github.com/aviraw/aviraw/blob/master/github.png
 [twitter]: https://twitter.com/Aviral237
