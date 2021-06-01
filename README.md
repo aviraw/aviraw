@@ -1,4 +1,4 @@
-# <img src = "https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width=50 height=50 /> Welcome to Aviral's GitHub ! <img src="https://tenor.com/view/grinning-face-with-smiling-eyes-joypixels-smiling-smirking-grinning-gif-17543225" width=50 height=50/>
+# <img src = "https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width=50 height=50 /> Welcome to Aviral's GitHub ! <img src="https://tenor.com/view/sretan-gif-21418180" width=50 height=50/>
 <!-- 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=5&layout=compact&theme=dark"> -->
 [<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin]
