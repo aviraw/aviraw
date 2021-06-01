@@ -10,6 +10,9 @@
 📷 [instagram][instagram] **|** 
 💙 [poetry-blog][poetry-blog]
 
+[![forthebadge](https://forthebadge.com/images/badges/hello)
+[![forthebadge](https://forthebadge.com/images/badges/approved-by-veridian-dynamics.svg)](https://forthebadge.com)
+
 * 🔭 I’m currently working on Webapps, Data Analytics, IoT, App Dev, UX and VFX
 * 🌱 I’m currently learning ReactJS, NodeJS, Java, PowerBI, Tableau, Android Studio, Adobe Photoshop, Adobe After Effects.
 * 👯 I’m looking for Internships on InternetOfThings, Python Dev and App Dev.
