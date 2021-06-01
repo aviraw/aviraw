@@ -10,9 +10,6 @@
 📷 [instagram][instagram] **|** 
 💙 [poetry-blog][poetry-blog]
 
-[![forthebadge](https://forthebadge.com/images/badges/hello)
-[![forthebadge](https://forthebadge.com/images/badges/approved-by-veridian-dynamics.svg)](https://forthebadge.com)
-
 * 🔭 I’m currently working on Webapps, Data Analytics, IoT, App Dev, UX and VFX
 * 🌱 I’m currently learning ReactJS, NodeJS, Java, PowerBI, Tableau, Android Studio, Adobe Photoshop, Adobe After Effects.
 * 👯 I’m looking for Internships on InternetOfThings, Python Dev and App Dev.
@@ -33,7 +30,7 @@
 <!--[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github-readme-stats.vercel.app/api?username=aviraw)-->
 
 <p align='left'>
-  <i><strong>"Good things, take time."</strong></i><br/>
+  <i><strong> https://img.shields.io/badge/Good%20Things-Take%20Time-blue </strong></i><br/>
 <img align='left' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"><br/>
 <p/>
 
