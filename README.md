@@ -3,13 +3,6 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=5&layout=compact&theme=dark"> -->
 <br/><img src = "https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark">
 
-👔 [linkedin][linkedin] **|**
-🐦 [twitter][twitter] **|** 
-❤️ [<img src="https://img.shields.io/badge/My-Portfolio-red"/>][portfolio] **|**
-📺 [youtube][youtube] **|** 
-📷 [instagram][instagram] **|** 
-💙 [poetry-blog][poetry-blog]
-
 * 🔭 I’m currently working on Webapps, Data Analytics, IoT, App Dev, UX and VFX
 * 🌱 I’m currently learning ReactJS, NodeJS, Java, PowerBI, Tableau, Android Studio, Adobe Photoshop, Adobe After Effects.
 * 👯 I’m looking for Internships on InternetOfThings, Python Dev and App Dev.
@@ -26,8 +19,21 @@
 [linkedin]: https://www.linkedin.com/in/aviral-srivastava-3336b166/
 [mail]: mailto:aviral23.1999@gmail.com
 [portfolio]: https://aviral.cf/
+<!-- 
+👔 [<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin] **|**
+🐦 [<img src="https://img.shields.io/badge/-Twitter-orange?style=for-the-badge&logo=appveyor"/>][twitter] **|** 
+❤️ [<img src="https://img.shields.io/badge/My-Portfolio-red?style=for-the-badge&logo=appveyor"/>][portfolio] **|**
+📺 [<img src="https://img.shields.io/badge/Youtube-Channel-yellow?style=for-the-badge&logo=appveyor"/>][youtube] **|** 
+📷 [<img src="https://img.shields.io/badge/Instagram-Profile-green?style=for-the-badge&logo=appveyor"/>][instagram] **|** 
+💙 [<img src="https://img.shields.io/badge/Poetry-Blog-brightgreen?style=for-the-badge&logo=appveyor"/>][poetry-blog] **|**  -->
 
 <!--[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github-readme-stats.vercel.app/api?username=aviraw)-->
+[<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin] **|**
+[<img src="https://img.shields.io/badge/-Twitter-orange?style=for-the-badge&logo=appveyor"/>][twitter] **|** 
+[<img src="https://img.shields.io/badge/My-Portfolio-red?style=for-the-badge&logo=appveyor"/>][portfolio] **|**
+[<img src="https://img.shields.io/badge/Youtube-Channel-yellow?style=for-the-badge&logo=appveyor"/>][youtube] **|** 
+[<img src="https://img.shields.io/badge/Instagram-Profile-green?style=for-the-badge&logo=appveyor"/>][instagram] **|** 
+[<img src="https://img.shields.io/badge/Poetry-Blog-brightgreen?style=for-the-badge&logo=appveyor"/>][poetry-blog] **|** 
 <img align='left' src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"><br/>
 <p align='left'>
   <i><strong><img src="https://img.shields.io/badge/Good%20Things-Take%20Time-9cf?style=for-the-badge&logo=appveyor"/> </strong></i>
