@@ -17,7 +17,6 @@
 * 💬 [mail][mail] **|**  Mail me at aviral23.1999@gmail.com.
 * ⚡ Fun fact: I love F.R.I.E.N.D.S. and I love to code in Java.
 
-<!--![bg][github]-->
 
 [github]: https://github.com/aviraw/aviraw/blob/master/github.png
 [twitter]: https://twitter.com/Aviral237
