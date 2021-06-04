@@ -10,7 +10,7 @@
 
 
 <br/><img src = "https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviraw&" alt="aviraw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviraw&show_icons=true&theme=dark" alt="aviraw" /></p>
 
 
 * 🔭 I’m currently working on Flask, FASTAPI, Django, Webapps, Data Analytics and IoT
