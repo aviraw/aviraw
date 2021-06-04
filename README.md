@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/Poetry-Blog-brightgreen?style=for-the-badge&logo=appveyor"/>][poetry-blog] 
 <!-- [<img src="https://img.shields.io/badge/Youtube-Channel-yellow?style=for-the-badge&logo=appveyor"/>][youtube] -->
 
-<div>
+<div style="width=100">
 <img src = "https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviraw&show_icons=true&theme=dark" />
 </div>
