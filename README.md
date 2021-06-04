@@ -11,9 +11,9 @@
 
 <br/><img src = "https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark">
 
-* 🔭 I’m currently working on Webapps, Data Analytics, IoT, App Dev, UX and VFX
+* 🔭 I’m currently working on Flask, FASTAPI, Django, Webapps, Data Analytics and IoT
 * 🌱 I’m currently learning ReactJS, NodeJS, Java, PowerBI, Tableau, Android Studio, Adobe Photoshop, Adobe After Effects.
-* 👯 I’m looking for Internships on InternetOfThings, Python Dev and App Dev.
+* 👯 I’m looking for Internships on InternetOfThings, WebDev, Python Dev and App Dev.
 * 💬 [mail][mail] **|**  Mail me at aviral23.1999@gmail.com.
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I love F.R.I.E.N.D.S. and I love to code in Java.
