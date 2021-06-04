@@ -9,8 +9,8 @@
 <!-- [<img src="https://img.shields.io/badge/Youtube-Channel-yellow?style=for-the-badge&logo=appveyor"/>][youtube] -->
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark" height="800" width="800">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviraw&show_icons=true&theme=dark" alt="aviraw" height="800" width="800" />
+<img src = "https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aviraw&show_icons=true&theme=dark" />
 
 
 * 🔭 I’m currently working on Flask, FASTAPI, Django, Webapps, Data Analytics and IoT
