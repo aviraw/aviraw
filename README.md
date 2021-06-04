@@ -15,7 +15,9 @@
 * 🌱 I’m currently learning ReactJS, NodeJS, Java, PowerBI, Tableau, Android Studio, Adobe Photoshop, Adobe After Effects.
 * 👯 I’m looking for Internships on InternetOfThings, Python Dev and App Dev.
 * 💬 [mail][mail] **|**  Mail me at aviral23.1999@gmail.com.
+* 😄 Pronouns: he/him
 * ⚡ Fun fact: I love F.R.I.E.N.D.S. and I love to code in Java.
+
 
 
 [github]: https://github.com/aviraw/aviraw/blob/master/github.png
