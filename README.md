@@ -1,4 +1,4 @@
- # <img src = "https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width=50 height=50 /> <p align="center" >Welcome to Aviral's GitHub ! </p><img src="https://media.giphy.com/media/3ohhwCZmdLxbmwrQiI/giphy.gif" height=80 width="80"/>
+ # <p align="center" > <img src = "https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width=50 height=50 /> Welcome to Aviral's GitHub ! <img src="https://media.giphy.com/media/3ohhwCZmdLxbmwrQiI/giphy.gif" height=80 width="80"/></p>
 <!-- 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aviraw&langs_count=5&layout=compact&theme=dark"> -->
 [<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin]
