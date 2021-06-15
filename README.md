@@ -31,6 +31,7 @@
 [linkedin]: https://www.linkedin.com/in/aviral-srivastava-3336b166/
 [mail]: mailto:aviral23.1999@gmail.com
 [portfolio]: https://aviral.cf/
+
 <!-- 
 👔 [<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin] **|**
 🐦 [<img src="https://img.shields.io/badge/-Twitter-orange?style=for-the-badge&logo=appveyor"/>][twitter] **|** 
@@ -52,4 +53,4 @@
 <p align='left'><img src="https://img.shields.io/badge/Good%20Things-Take%20Time-9cf?style=for-the-badge&logo=appveyor"/><p/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"/>
 
-#
+
