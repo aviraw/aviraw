@@ -32,7 +32,6 @@
 [mail]: mailto:aviral23.1999@gmail.com
 [portfolio]: https://aviral.cf/
 
-#
 
 <!-- 
 👔 [<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin] **|**
