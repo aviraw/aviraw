@@ -21,7 +21,7 @@
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: I love F.R.I.E.N.D.S. and I love to code in Java.
 
-#
+
 
 [github]: https://github.com/aviraw/aviraw/blob/master/github.png
 [twitter]: https://twitter.com/Aviral237
@@ -33,7 +33,6 @@
 [portfolio]: https://aviral.cf/
 
 #
-
 <!-- 
 👔 [<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin] **|**
 🐦 [<img src="https://img.shields.io/badge/-Twitter-orange?style=for-the-badge&logo=appveyor"/>][twitter] **|** 
@@ -48,7 +47,39 @@
 <br />
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
+	<a href="https://www.mysql.com/" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+			alt="mysql"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.sqlite.org/" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+			alt="sqlite"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.postgresql.org" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+			alt="postgresql"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://firebase.google.com/" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+			alt="firebase"
+			width="40"
+			height="40"
+		/>
+	</a>
 	<a href="https://developer.android.com" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -109,14 +140,6 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
 			alt="express"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://firebase.google.com/" target="_blank">
-		<img
-			src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-			alt="firebase"
 			width="40"
 			height="40"
 		/>
@@ -212,14 +235,6 @@
 			height="40"
 		/>
 	</a>
-	<a href="https://www.mysql.com/" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-			alt="mysql"
-			width="40"
-			height="40"
-		/>
-	</a>
 	<a href="https://nodejs.org" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -232,14 +247,6 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
 			alt="photoshop"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.postgresql.org" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-			alt="postgresql"
 			width="40"
 			height="40"
 		/>
@@ -264,14 +271,6 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
 			alt="react"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.sqlite.org/" target="_blank">
-		<img
-			src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-			alt="sqlite"
 			width="40"
 			height="40"
 		/>
