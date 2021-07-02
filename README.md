@@ -207,7 +207,7 @@
 			height="40"
 		/>
 		</a>
-		</li>
+		</li><li>
 		<a href="https://www.arduino.cc/" target="_blank">
 		<img
 			src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
@@ -285,7 +285,7 @@
 			alt="tensorflow"
 			width="40"
 			height="40"/>
-	</a></ul>
+	</a></li></ul>
 </p>
 
 #
