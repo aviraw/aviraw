@@ -140,7 +140,6 @@
 		/>
 	</a>
 		</li>
-	
 	<a href="https://www.arduino.cc/" target="_blank">
 		<img
 			src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
@@ -237,7 +236,6 @@
 			height="40"
 		/>
 	</a>
-		
 	<a href="https://www.linux.org/" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -286,7 +284,6 @@
 			height="40"/>
 	</a></ul>
 </p>
-
 
 #
 
