@@ -48,7 +48,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-	<a href="https://www.mysql.com/" target="_blank">
+	<ul><li><a href="https://www.mysql.com/" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
 			alt="mysql"
@@ -79,7 +79,7 @@
 			width="40"
 			height="40"
 		/>
-	</a>
+		</a></li>
 	<a href="https://developer.android.com" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -280,7 +280,7 @@
 			alt="tensorflow"
 			width="40"
 			height="40"/>
-	</a>
+	</a></ul>
 </p>
 
 
