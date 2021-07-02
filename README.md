@@ -43,8 +43,6 @@
 
 <!--[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github-readme-stats.vercel.app/api?username=aviraw)-->
 
-
-<br />
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
