@@ -50,8 +50,8 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
 			alt="mysql"
-			width="20"
-			height="20"
+			width="30"
+			height="30"
 		/>
 	</a>
 	<a href="https://www.sqlite.org/" target="_blank">
