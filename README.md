@@ -31,7 +31,7 @@
 [linkedin]: https://www.linkedin.com/in/aviral-srivastava-3336b166/
 [mail]: mailto:aviral23.1999@gmail.com
 [portfolio]: https://aviral.cf/
-
+#
 
 <!-- 
 👔 [<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin] **|**
