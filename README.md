@@ -14,7 +14,7 @@
 
 #
 
-* 🔭 I’m currently working on Flask, Django, Webapps, Data Analytics and IoT
+* 🔭 I’m currently working on Django, Webapps, Data Analytics and IoT
 * 🌱 I’m currently learning ReactJS, NodeJS, Java, PowerBI, Tableau, Android Studio, Adobe Photoshop, Adobe After Effects.
 * 👯 I’m looking for Internships on InternetOfThings, WebDev, Python Dev and App Dev.
 * 💬 [mail][mail] **|**  Mail me at aviral23.1999@gmail.com.
