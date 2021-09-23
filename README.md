@@ -286,7 +286,7 @@
 	</a></li></ul>
 </p>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/aviraw/aviraw/quotes.json&theme=dark&animation=grow_out_in)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational&theme=dark&animation=grow_out_in)
  
 <p align='left'><img src="https://img.shields.io/badge/Good%20Things-Take%20Time-9cf?style=for-the-badge&logo=appveyor"/><p/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"/>
