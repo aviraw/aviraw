@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/Instagram-Profile-green?style=for-the-badge&logo=appveyor"/>][instagram]
 [<img src="https://img.shields.io/badge/Poetry-Blog-brightgreen?style=for-the-badge&logo=appveyor"/>][poetry-blog]
  
- # <p align="left" > <img src = "https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width=80 height=80 /> Welcome to Aviral's GitHub ! <img src="https://media.giphy.com/media/3ohhwCZmdLxbmwrQiI/giphy.gif" height=80 width="80"/></p>
+ # <p align="center" > <img src = "https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width=80 height=80 /> Welcome to Aviral's GitHub ! <img src="https://media.giphy.com/media/3ohhwCZmdLxbmwrQiI/giphy.gif" height=80 width="80"/></p>
 <!-- 
 [<img src="https://img.shields.io/badge/Linked-in-blue?style=for-the-badge&logo=appveyor"/>][linkedin]
 [<img src="https://img.shields.io/badge/Twitter-Page-orange?style=for-the-badge&logo=appveyor"/>][twitter]
@@ -42,7 +42,7 @@
 
 <!--[![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviraw)](https://github-readme-stats.vercel.app/api?username=aviraw)-->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center" width="20" height="20">
 	<ul><li><a href="https://www.mysql.com/" target="_blank">
@@ -287,6 +287,6 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational&theme=dark&animation=grow_out_in)
  
-<p align='left'><img src="https://img.shields.io/badge/Good%20Things-Take%20Time-9cf?style=for-the-badge&logo=appveyor"/><p/>
+<p align='center'><img src="https://img.shields.io/badge/Good%20Things-Take%20Time-9cf?style=for-the-badge&logo=appveyor"/><p/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=aviraw.visitorBatch"/>
 
