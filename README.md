@@ -286,7 +286,6 @@
 	</a></li></ul>
 </p>
 
-#
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational&theme=dark&animation=grow_out_in)
  
