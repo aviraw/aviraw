@@ -285,8 +285,8 @@
 	</a></li></ul>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/aviraw/aviraw/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/aviraw/aviraw/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational&theme=dark&animation=grow_out_in)
