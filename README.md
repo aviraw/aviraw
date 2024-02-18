@@ -23,7 +23,7 @@
 
 #
 
-* 🔭 I’m currently working on Personal Projects, and studying data structures and algorithms.
+* 🔭 I’m currently working on Personal Projects, and studying Machine Learning, Software Design, and Scalable Computing.
 * 🌱 I’m currently learning Javascript and Typescript.
 * 👯 I’m looking for Summer Internships for Spring 2024.
 * 💬 [mail][mail] **|**  Mail me at aviral23.1999@gmail.com.
