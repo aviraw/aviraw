@@ -28,7 +28,7 @@
 * 👯 I’m looking for Summer Internships for Spring 2024.
 * 💬 [mail][mail] **|**  Mail me at aviral23.1999@gmail.com.
 * 😄 Pronouns: he/him
-* ⚡ Fun fact: I love F.R.I.E.N.D.S. and I love to code in Java and C++.
+* ⚡ Fun fact: I love F.R.I.E.N.D.S. and I love to code in Java and C++
 
 
 
