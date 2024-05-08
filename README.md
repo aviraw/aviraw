@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 👨‍💻 I'm an aspiring software engineer with a passion for building and exploring new technologies.  
-🎓 Pursuing a Master's in Computer Science from California State University, Chico and holding a Bachelor's in Computer Science Engineering from University of Petroleum and Energy Studies, Dehradun.
+🎓 Pursuing a Master's in Computer Science from California State University, Chico.
 🔧 Currently honing my skills in Go, JavaScript, and TypeScript.
 🔭 Exploring Machine Learning, Software Design, and Scalable Computing through personal projects.  
 👯 I’m on the lookout for Summer Internships for Spring 2024.
