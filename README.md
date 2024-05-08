@@ -8,6 +8,9 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark" width="390"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviraw&theme=dark" width="390"/>
+    
+![GIFF](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
+
 </div>
 
 ## 🚀 About Me
@@ -70,7 +73,5 @@
 [portfolio]: https://linktr.ee/Aviraw237
 [youtube]: https://www.youtube.com/channel/UCI4D4bm6clAdmDNQNiWrcvw?view_as=subscriber
 [poetry-blog]: https://www.instagram.com/__littleblueheart__/
-
-![GIFF](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
 
 ![](https://komarev.com/ghpvc/?username=aviraw)
