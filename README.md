@@ -12,21 +12,12 @@
 
 ## 🚀 About Me
 
-👨‍💻 I'm a software engineer with a passion for building and exploring new technologies.  
-🎓 Pursuing a Master's in Computer Science and holding a Bachelor's in Computer Science Engineering.  
-🔧 Currently honing my skills in Go, JavaScript, and TypeScript.  
-🌟 Fun Fact: I'm a huge fan of F.R.I.E.N.D.S and love solving problems with Java and C++.  
+👨‍💻 I'm an aspiring software engineer with a passion for building and exploring new technologies.  
+🎓 Pursuing a Master's in Computer Science from California State University, Chico and holding a Bachelor's in Computer Science Engineering from University of Petroleum and Energy Studies, Dehradun.
+🔧 Currently honing my skills in Go, JavaScript, and TypeScript.
 🔭 Exploring Machine Learning, Software Design, and Scalable Computing through personal projects.  
 👯 I’m on the lookout for Summer Internships for Spring 2024.
-
-## 🎓 Education
-
-- **California State University, Chico**  
-  _Master of Science in Computer Science_ (Expected May 2025)
-  
-- **University of Petroleum and Energy Studies**  
-  _Bachelor of Technology in Computer Science Engineering_ (Graduated December 2022)  
-  GPA: 4.19/5.0
+🌟 Fun Fact: I'm a huge fan of F.R.I.E.N.D.S!
 
 ## 💻 Experience
 
