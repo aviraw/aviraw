@@ -8,11 +8,10 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark" width="390"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviraw&theme=dark" width="390"/>
-    
-![GIFF](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
-
 </div>
 
+<div align="center">
+<p>
 ## 🚀 About Me
 
 👨‍💻 I'm an aspiring software engineer passionate about creating impactful software solutions.  
@@ -22,7 +21,11 @@
 👯 I’m on the lookout for Summer Internships for Spring 2024.  
 😄 Pronouns: he/him.
 ⚡ Fun fact: I love F.R.I.E.N.D.S!
-
+</p>
+<p>
+![Alt Text](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
+</p>
+</div>
 
 ## 🔧 Technologies I know:
 
