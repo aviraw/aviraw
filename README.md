@@ -36,7 +36,7 @@
 <tr>
 <td colspan="2">
 
-## 🔧 Technologies I know
+## 🔧 I know
 
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -52,7 +52,7 @@
 <tr>
 <td colspan="2">
 
-### Languages and Tools I use
+### I use
 
 <p>
   <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
