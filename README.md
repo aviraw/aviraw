@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/Youtube-Channel-yellow?style=for-the-badge&logo=youtube"/>][youtube]
 [<img src="https://img.shields.io/badge/Poetry-Blog-brightgreen?style=for-the-badge&logo=none"/>][poetry-blog]-->
 
-# <img src="https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width="80" height="80"/> <h1>Welcome to Aviral's GitHub!</h1><img src="https://media.giphy.com/media/3ohhwCZmdLxbmwrQiI/giphy.gif" height="80" width="80"/>
+# <img src="https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width="80" height="80"/> Welcome to Aviral's GitHub!<img src="https://media.giphy.com/media/3ohhwCZmdLxbmwrQiI/giphy.gif" height="80" width="80"/>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark" width="390"/>
