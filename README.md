@@ -71,6 +71,6 @@
 [youtube]: https://www.youtube.com/channel/UCI4D4bm6clAdmDNQNiWrcvw?view_as=subscriber
 [poetry-blog]: https://www.instagram.com/__littleblueheart__/
 
-[<iframe src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9"></a></p>](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWN1cXNma3R2b251NWk3MXBuYWZ1bWU3Zm03ZDY4Y3k5YThoZWd1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif)
+![GIFF](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
 
 ![](https://komarev.com/ghpvc/?username=aviraw)
