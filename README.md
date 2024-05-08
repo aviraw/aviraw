@@ -17,6 +17,9 @@
 🔧 Skilled in Java, TypeScript, Go, and full-stack development.  
 🌟 I enjoy exploring new technologies and building projects that solve real-world problems.  
 👯 I’m on the lookout for Summer Internships for Spring 2024.  
+😄 Pronouns: he/him
+⚡ Fun fact: I love F.R.I.E.N.D.S
+
 
 ## 🔧 Technologies & Tools
 
@@ -27,6 +30,21 @@
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
+### Languages and Tools:
+
+<p>
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img alt="Go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+  <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+  <img alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" height="40"/>
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</p>
 
 ## 🌐 Social Links
 
@@ -43,7 +61,7 @@
 - **Enigma - A File Security System**  
   [View Repository](#)
 
-## 📫 How to Reach Me
+## 📫 Send me a 'Hi!'
 
 - **Email:** [aviral23.1999@gmail.com](mailto:aviral23.1999@gmail.com)  
 - **LinkedIn:** [Visit my Profile][linkedin]
