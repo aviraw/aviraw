@@ -12,16 +12,16 @@
 
 ## 🚀 About Me
 
-👨‍💻 I'm a software engineer passionate about creating impactful software solutions.  
+👨‍💻 I'm an aspiring software engineer passionate about creating impactful software solutions.  
 🎓 Pursuing a Master's in Computer Science at California State University, Chico.  
 🔧 Skilled in Java, TypeScript, Go, and full-stack development.  
 🌟 I enjoy exploring new technologies and building projects that solve real-world problems.  
 👯 I’m on the lookout for Summer Internships for Spring 2024.  
 😄 Pronouns: he/him
-⚡ Fun fact: I love F.R.I.E.N.D.S
+⚡ Fun fact: I love F.R.I.E.N.D.S!
 
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies I know:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-### Languages and Tools:
+### Languages and Tools I use:
 
 <p>
   <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -46,20 +46,20 @@
   <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
-## 🌐 Social Links
+## 🌐 My Socials
 
 [<img src="https://img.shields.io/badge/LinkedIn-Aviral-blue?style=flat-square&logo=linkedin"/>][linkedin]
 [<img src="https://img.shields.io/badge/Portfolio-Aviral-red?style=flat-square"/>][portfolio]
 [<img src="https://img.shields.io/badge/Youtube-Aviral-yellow?style=flat-square&logo=youtube"/>][youtube]
 [<img src="https://img.shields.io/badge/Instagram-Poetry__Blog-brightgreen?style=flat-square"/>][poetry-blog]
 
-## 📦 Projects
+## 📦 My Projects
 
 - **Smart Home Automation System**  
-  [View Repository](#)
+  [View Repository](https://github.com/aviraw/Home_Automation)
   
 - **Enigma - A File Security System**  
-  [View Repository](#)
+  [View Repository](https://github.com/aviraw/Minor1---Enigma)
 
 ## 📫 Send me a 'Hi!'
 
