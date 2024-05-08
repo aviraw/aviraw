@@ -11,7 +11,10 @@
 </div>
 
 <div align="center">
-<p>
+<table>
+<tr>
+<td>
+
 ## 🚀 About Me
 
 👨‍💻 I'm an aspiring software engineer passionate about creating impactful software solutions.  
@@ -19,12 +22,17 @@
 🔧 Skilled in Java, TypeScript, Go, and full-stack development.  
 🌟 I enjoy exploring new technologies and building projects that solve real-world problems.  
 👯 I’m on the lookout for Summer Internships for Spring 2024.  
-😄 Pronouns: he/him.
+😄 Pronouns: he/him.  
 ⚡ Fun fact: I love F.R.I.E.N.D.S!
-</p>
-<p>
-![Alt Text](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)
-</p>
+
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="480" height="270"/>
+
+</td>
+</tr>
+</table>
 </div>
 
 ## 🔧 Technologies I know:
