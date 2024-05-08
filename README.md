@@ -17,7 +17,7 @@
 🔧 Skilled in Java, TypeScript, Go, and full-stack development.  
 🌟 I enjoy exploring new technologies and building projects that solve real-world problems.  
 👯 I’m on the lookout for Summer Internships for Spring 2024.  
-😄 Pronouns: he/him
+😄 Pronouns: he/him.
 ⚡ Fun fact: I love F.R.I.E.N.D.S!
 
 
@@ -70,5 +70,7 @@
 [portfolio]: https://linktr.ee/Aviraw237
 [youtube]: https://www.youtube.com/channel/UCI4D4bm6clAdmDNQNiWrcvw?view_as=subscriber
 [poetry-blog]: https://www.instagram.com/__littleblueheart__/
+
+<iframe src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9"></a></p>
 
 ![](https://komarev.com/ghpvc/?username=aviraw)
