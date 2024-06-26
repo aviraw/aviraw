@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 👨‍💻 I'm an aspiring software engineer passionate about creating impactful software solutions.  
-🎓 Pursuing a Master's in Computer Science at California State University, Chico.  
+🎓 I'm pursuing a Master's in Computer Science at California State University, Chico.  
 🔧 Skilled in Java, TypeScript, Go, and full-stack development.  
 🌟 I enjoy exploring new technologies and building projects that solve real-world problems.  
 👯 I’m on the lookout for Summer Internships for Spring 2024.  
