@@ -1,12 +1,10 @@
 # <p align="center"> <img src="https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width="80" height="80"/> Welcome to Aviral's GitHub! <img src="https://media.giphy.com/media/3ohhwCZmdLxbmwrQiI/giphy.gif" height="80" width="80"/></p>
-
 <!--
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark" width="390"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviraw&theme=dark" width="390"/>
 </div>
--->
-             
+-->   
 <table>
 <tr>
 <td valign="top" width="50%">
