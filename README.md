@@ -2,7 +2,6 @@
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aviraw&theme=transparent">
 
-
 <!--
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aviraw&count_private=true&show_icons=true&theme=dark" width="390"/>
