@@ -6,7 +6,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviraw&theme=dark" width="390"/>
 </div>
 --> 
-
 <table>
 <tr>
 <td valign="top" width="50%">
