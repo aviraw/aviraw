@@ -1,6 +1,6 @@
 # <p align="center"> <img src="https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width="80" height="80"/> Welcome to Aviral's GitHub! <img src="https://media.giphy.com/media/3ohhwCZmdLxbmwrQiI/giphy.gif" height="80" width="80"/></p>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aviraw&theme=transparent">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avira&theme=transparent">
 
 <!--
 <div align="center">
