@@ -1,6 +1,3 @@
-**New Hacktoberfest Repository [View Repository](https://github.com/aviraw/Introduction-To-Javascript)**
-
-
 # <p align="center"> <img src="https://media.giphy.com/media/yUgDvwPwbX2aHVtY0H/giphy.gif" width="80" height="80"/> Welcome to Aviral's GitHub! <img src="https://media.giphy.com/media/3ohhwCZmdLxbmwrQiI/giphy.gif" height="80" width="80"/></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aviraw&theme=algolia)
@@ -77,6 +74,16 @@
 </tr>
 </table>
 
+## 😄 Hello! I'm participating in HacktoberFest 2024: 💫
+
+Here are some repositories I'm maintaining this year!
+
+**New Hacktoberfest Repository JavaScriptOpenSourceGuide [View Repository](https://github.com/aviraw/Introduction-To-Javascript)**
+
+**All Pattern Printing Codes [View Repository](https://github.com/aviraw/MyPatterns)**
+
+**CodeChef Solutions [View Repository](https://github.com/aviraw/Introduction-To-Javascript)**
+
 ## 🌐 My Socials
 
 [<img src="https://img.shields.io/badge/LinkedIn-Aviral-blue?style=flat-square&logo=linkedin"/>][linkedin]
@@ -96,9 +103,10 @@
 
 - **Email:** [aviral23.1999@gmail.com](mailto:aviral23.1999@gmail.com)  
 - **LinkedIn:** [Visit my Profile][linkedin]
+- **MyPortfolio:** [Visit my Profile][portfolio]
 
 [linkedin]: https://www.linkedin.com/in/aviralkumarsrivastava/
-[portfolio]: https://linktr.ee/Aviraw237
+[portfolio]: https://aviralkumarsrivastava.netlify.app/
 [youtube]: https://www.youtube.com/channel/UCI4D4bm6clAdmDNQNiWrcvw?view_as=subscriber
 [poetry-blog]: https://www.instagram.com/__littleblueheart__/
 
