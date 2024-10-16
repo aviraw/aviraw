@@ -82,7 +82,7 @@ Here are some repositories I'm maintaining this year!
 
 **All Pattern Printing Codes [View Repository](https://github.com/aviraw/MyPatterns)**
 
-**CodeChef Solutions [View Repository](https://github.com/aviraw/Introduction-To-Javascript)**
+**CodeChef Solutions [View Repository](https://github.com/aviraw/CodeChef)**
 
 ## 🌐 My Socials
 
