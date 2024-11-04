@@ -73,17 +73,13 @@
 </td>
 </tr>
 </table>
-
+<!-- 
 ## 😄 Hello! I'm participating in HacktoberFest 2024: 💫
-
 Here are some repositories I'm maintaining this year!
-
 **New Hacktoberfest Repository JavaScriptOpenSourceGuide [View Repository](https://github.com/aviraw/Introduction-To-Javascript)**
-
 **All Pattern Printing Codes [View Repository](https://github.com/aviraw/MyPatterns)**
-
 **CodeChef Solutions [View Repository](https://github.com/aviraw/CodeChef)**
-
+-->
 ## 🌐 My Socials
 
 [<img src="https://img.shields.io/badge/LinkedIn-Aviral-blue?style=flat-square&logo=linkedin"/>][linkedin]
